@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+qiskit-algorithms
+qiskit-optimization
+numpy
+matplotlib
+dimod
+neal
+streamlit
+pandas
+pygame
